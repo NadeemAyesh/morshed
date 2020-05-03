@@ -1,0 +1,115 @@
+.top-bar-ul li a i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.mr-auto {
+    margin-right: 0 !important;
+    margin-left: auto !important;
+}
+
+.ml-auto {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+.static-item .icon {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+.serv-type {
+    left: auto;
+    right: 0;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.blog-date {
+    left: 15px;
+    right: auto;
+}
+
+.contact_section .section_body_wrap [class*=col] {
+    margin-left: auto;
+}
+
+.ms_arrow_btn i {
+    right: auto;
+    left: 8px;
+}
+
+#footer h4::after {
+    left: 0;
+}
+
+#footer .footer-links ul i {
+    transform: rotate(180deg);
+    padding-left: 8px;
+    padding-right: 0;
+}
+
+.login-bg-left {
+    right: 92px;
+    left: auto;
+}
+
+div.dataTables_wrapper div.dataTables_filter {
+    text-align: right;
+}
+
+.name-fig {
+    margin-right: 35px;
+    margin-left: 0;
+}
+
+.chat-item .media-body::before  {
+    left: -12px;
+    right: auto;
+    transform: rotate(180deg);
+}
+
+.chat-item.left .media .name-fig {
+    margin-left: 35px;
+    margin-right: 0;
+}
+
+.chat-item.left .media-body::before {
+    right: -12px;
+    left: auto;
+    transform: none;
+}
+
+.send .form-control {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+.text-left {
+    text-align: right !important;
+}
+
+.text-right {
+    text-align: left !important;
+}
+
+.login-form .form-group i {
+    right: 22px;
+    left: auto;
+    border-left: 1px solid var(--main-color);
+    padding-left: 7px !important;
+    border-right: none;
+    padding-right: 0 !important;
+}
+
+.login-form .form-group input, .login-form .form-group .form-control {
+    padding-right: 50px;
+    padding-left: 15px;
+}
+
+.iner-title::after {
+    left: 0;
+    right: auto;
+}
